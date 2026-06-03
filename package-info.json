@@ -1,0 +1,8 @@
+{
+  "cards": null,
+  "audio_files": 138,
+  "private_files_excluded": [
+    "tts_config.json",
+    "sources/"
+  ]
+}
